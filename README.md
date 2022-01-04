@@ -2,23 +2,18 @@
 
 Project to test the backend Rest services using rest assured and other libraries.
 
-Pre-requisites: 
+**Pre-requisites: **
 1) Java 8
-2) Chrome Browser
-3) Maven
-4) Intellj or any other IDE
+2) Maven
+3) Intellj or Eclipse or any other IDE of your choice
 
-Steps:
-1) Check for the Chrome browser version
-2) Download the respective driver from below link
-   https://chromedriver.chromium.org/downloads
-    Ex: For Windows download chromedriver_win32.zip 
-3) Extract and place the driver in below path
-   ..\backend-integration-framework\drivers
-4) Now run the below command to execute the automated scripts
+**Steps:**
+1) Now run the below command to execute the automated scripts
    mvn clean test "-Denv=qa" "-Dcucumber.options=@smoke" --info
-5) HTML report would be generated in below folder
-   ..\backend-integration-framework\build\Logs\test-output\S
+2) HTML report would be generated in below folder
+   ..\backend-integration-framework\build\Logs\test-output\
    
-Note:
+   Also we to run with other environment please change the parameter -Denv=dev
+   
+**Note:**
 ** To run the scripts from IDE open the "RunCucumberTest.java" file from ..src\test\java\org\backendintegrationframework
