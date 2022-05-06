@@ -1,4 +1,4 @@
-package org.backendintegrationframework.util;
+package org.backendtestframework.util;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
