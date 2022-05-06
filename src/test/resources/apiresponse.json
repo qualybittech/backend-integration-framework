@@ -1,0 +1,85 @@
+{
+    "subscriptionRefId": "Sub965730",
+    "subscriptionStartDate": 1646380800,
+    "subscriptionEndDate": 1740988800,
+    "accountType": "1-Tier Partner",
+    "nextMilestoneDate": 1670140800,
+    "recentMilestoneDate": 1638604800,
+    "tfStatus": "ACTIVE",
+    "subscriptionStatus": "ACTIVE",
+    "consumptionHealth": 0,
+    "billingModel": "Monthly Billing",
+    "billToId": "1012406161",
+    "endCustomerId": "1028451229",
+    "shipToId": "1028451229",
+    "billToName": "ALEXANDER OPEN SYSTEMS",
+    "endCustomerName": "UNIVERSITY OF TEXAS SYSTEM",
+    "shipToName": "UNIVERSITY OF TEXAS SYSTEM",
+    "offerName": "A-FLEX-3",
+    "consumedQuantity": 14,
+    "orderedQuantity": 1450,
+    "tfGroups": [
+        {
+            "name": "Meeting Calling Pack EA",
+            "term": 12,
+            "growthAllowance": 20,
+            "nextMilestoneDate": 1670140800,
+            "recentMilestoneDate": 1638604800,
+            "consumedQuantity": 14,
+            "orderedQuantity": 1450,
+            "tfQuantity": 0,
+            "netOverConsumptionQuantity": 0,
+            "skus": [
+                {
+                    "name": "A-FLEX-EA-MCL",
+                    "description": "EA Cloud Meetings with EA Webex Calling - Webex Suite",
+                    "consumedQuantity": 14,
+                    "orderedQuantity": 1450,
+                    "growthAllowanceQuantity": 290,
+                    "netOverConsumptionQuantity": 0,
+                    "tfQuantity": 0,
+                    "unitNetPrice": 15.8775,
+                    "deliveryMethod": "CLOUD",
+                    "totalQuantity": 1740,
+                    "consumptionHealth": 0,
+                    "consumptionSkus": [
+                        {
+                            "name": null,
+                            "consumedQuantity": 14,
+                            "orderedQuantity": null,
+                            "netOverConsumptionQuantity": 0,
+                            "productName": "Calling",
+                            "totalQuantity": 1740
+                        },
+                        {
+                            "name": null,
+                            "consumedQuantity": 7,
+                            "orderedQuantity": null,
+                            "netOverConsumptionQuantity": 0,
+                            "productName": "Meetings",
+                            "totalQuantity": 1740
+                        }
+                    ]
+                }
+            ],
+            "totalQuantity": 1740,
+            "consumptionHealth": 0,
+            "initiateTF": "Y",
+            "analyticDataExist": true,
+            "growthAllowanceQuantity": 290
+        }
+    ],
+    "audit": {
+        "createdBy": "mariar",
+        "createdTime": 1646800536,
+        "modifiedBy": "mariar",
+        "modifiedTime": 1646800536
+    },
+    "tfEffectiveDate": 1638604800,
+    "webOrderId": "90713956",
+    "purchaseOrderNumber": "90713956",
+    "autoRenewal": "Y",
+    "autoTFEnabled": "Y",
+    "nextMonthlyMilestoneDate": "04-Mar-2022",
+    "currencyCode": "USD"
+}

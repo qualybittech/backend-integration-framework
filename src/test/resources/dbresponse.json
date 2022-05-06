@@ -1,0 +1,100 @@
+{
+"_id" : ObjectId("622304986fc27224731ac6de"),
+"subscriptionRefId" : "Sub965730",
+"subscriptionStartDate" : 1646380800,
+"subscriptionEndDate" : 1740988800,
+"accountType": "1-Tier Partner",
+"nextMilestoneDate" : 1670140800,
+"consumedQuantity" : 14,
+"orderedQuantity" : 1450,
+										
+"consumptionHealth" : 0,
+"billingModel" : "Monthly Billing",
+"billToId" : "1012406161",
+"endCustomerId" : "1028451229",
+"shipToId" : "1028451229",
+"billToName" : "ALEXANDER OPEN SYSTEMS",
+"endCustomerName" : "UNIVERSITY OF TEXAS SYSTEM",
+"shipToName" : "UNIVERSITY OF TEXAS SYSTEM",
+"offerName" : "A-FLEX-3",
+"offerType" : "WEBEX",
+"subscriptionStatus" : "ACTIVE",
+"tfStatus" : "ACTIVE",
+										   
+														 
+"recentMilestoneDate" : 1638604800,
+"healthTime" : 1646726399,
+"gracePeriodDate" : 1742367600,
+"renewalTerm" : 12,
+"initialTerm" : 36,
+"graceWindowDate" : 9999999999,
+							   
+"webOrderId" : "90713956",
+										   
+
+"autoRenewal" : "Y",
+"autoTFEnabled" : "Y",
+"tfEffectiveDate" : 1638605498,
+"purchaseOrderNumber" : "90713956",
+"dateOfSnaphot" : 1667980800,
+"tfGroups" : [
+{
+		"_id" : "Meeting Calling Pack EA",
+		"name" : "tfStatus",
+		"term" : 12,
+		"growthAllowance" : 20,
+		"skus" : [
+					{
+						"name" : "A-FLEX-EA-MCL",
+						"deliveryMethod" : "CLOUD",
+						"consumedQuantity" : 14,
+						"growthAllowanceQuantity" : 290,
+						"netOverConsumptionQuantity" : 0,
+						"reallocatedGrowthAllowanceQuantity" : 0,
+						"orderedQuantity" : 1450,
+						"tfQuantity" : 0,
+						"unitNetPrice" : 15.8775,
+						"totalQuantity" : 1740,
+						"consumptionHealth" : 0,
+						"unusedGrowthAllowanceQuantity" : 290,
+						"usedGrowthAllowanceQuantity" : 0,
+						"consumptionSku" : [
+							{
+								"productName" : "Calling",
+								"totalQuantity" : 1740,
+								"deliveryMethod" : "CLOUD",
+								"consumedQuantity" : 14,
+								"netOverConsumptionQuantity" : 0
+							},
+							{
+								"productName" : "Meetings",
+								"totalQuantity" : 1740,
+								"deliveryMethod" : "CLOUD",
+								"consumedQuantity" : 7,
+								"netOverConsumptionQuantity" : 0
+							}
+						]
+					}
+				],
+	"nextMilestoneDate" : 1670140800,
+	"consumedQuantity" : 14,
+	"orderedQuantity" : 1450,
+	"tfQuantity" : 0,
+	"totalQuantity" : 1740,
+	"netOverConsumptionQuantity" : 0,
+	"consumptionHealth" : 0,
+	"recentMilestoneDate" : 1638604800,
+	"growthAllowanceQuantity" : 290,
+	"offers" : [ ]
+}
+],
+"nextMonthlyMilestoneDate" : "04-Mar-2022",
+"currencyCode" : "USD",
+
+"audit" : {
+"createdBy" : "mariar",
+"createdTime" : 1646800536,
+"modifiedBy" : "mariar",
+"modifiedTime" : 1646800536
+}
+}
